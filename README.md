@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aylin Gurbanli</h1>
 <h3 align="center">Aspiring data analytics candidate focused on business intelligence</h3>
 
+- 🔭 I’m currently working on [Supermarket Sales Dashboard](https://github.com/aylingurbanli/PowerBI-Supermarket-Sales-Dashboard.git)
+
 - 📫 How to reach me **aylingurbanli15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,6 +16,7 @@
 <p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aylingurbanli&show_icons=true&locale=en&layout=compact" alt="aylingurbanli" /></p>
+
 
 
 
